@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "KTech": {
+      "commandName": "Project",
+      "commandLineArgs": "notification email --subject \"This is a test\" --body \"Did it work?\""
+    }
+  }
+}
